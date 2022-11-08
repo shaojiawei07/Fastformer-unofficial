@@ -12,6 +12,6 @@ recommenders
 
 ## How to run
 
-First, make sure that you have downloaded the MIND dataset and the folder `./dataset_large` is in your directory.
+First, make sure that you have downloaded the MIND dataset, and the folder `./dataset_large` is in your directory.
 
 Start the training process by `python main.py`.
